@@ -1,0 +1,7 @@
+//bien1
+cola Cola123 {
+  crear([10,20])!
+  encolar("datoExtra")!
+  verPrimero()!
+  desencolar()!
+}

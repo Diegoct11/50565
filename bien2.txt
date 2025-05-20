@@ -1,0 +1,7 @@
+//bien2
+cola miCola {
+  crear([1,2,3])!
+  encolar("nuevo")!
+  verPrimero()!
+  desencolar()!
+}
