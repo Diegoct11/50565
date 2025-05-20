@@ -1,0 +1,6 @@
+cola miCola {
+    crear([10, 20, 30])!
+    encolar("nuevo elemento")!
+    verPrimero()!
+    desencolar()!
+}
